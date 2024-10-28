@@ -15,6 +15,7 @@ OOP Concepts
 Class: 
 •	collection of objects defining the common attributes and behaviors
 •	is defined under a keyword “ class”
+
 Example: 
 class Class1(): // class 1 is the name of the class
 
@@ -28,6 +29,7 @@ Here, obj is the object of class1.
 
 Class and Object Creation in Python 
 ![image](https://github.com/user-attachments/assets/1e5b4738-2e08-4a02-a66a-ef318c71038b)
+
 •	employee1() and employee2() are the objects instantiated against the class ”employee”.
 •	the word (__dict__) is a “dictionary” which prints all the values of object ‘emp1’ against the given parameter (name, age, salary).
 •	(__init__) acts like a constructor that is invoked whenever an object is created.
@@ -44,6 +46,7 @@ Types of Inheritance:
 Single Inheritance:
 •	Enables a derived class to inherit characteristics from a single parent class
 ![image](https://github.com/user-attachments/assets/3704cedb-d074-462b-8fd1-9061a88da9f7)
+
 •	I am taking the parent class and created a constructor (__init__),  class itself is initializing the attributes with parameters(‘name’, ‘age’ and ‘salary’).
 •	Created a child class ‘childemployee’ which is inheriting the properties from a parent class and finally instantiated objects ’emp1′ and ’emp2′ against the parameters.
 •	Finally, I have printed the age of emp1. Well, you can do a hell lot of things like print the whole dictionary or name or salary.
@@ -51,6 +54,7 @@ Single Inheritance:
 Multilevel Inheritance
 •	Enables a derived class to inherit properties from an immediate parent class which in turn inherits properties from his parent class.
 ![image](https://github.com/user-attachments/assets/42e90488-d17b-49c3-a100-4f82106a8054)
+
 •	In the above program, employee is the super class, childemployee1 is the child class. The childemployee1 class acts as the parent class for class childemployee2.
 •	Two objects emp1 and emp2 are instantiated from superclass and parent class respectively by passing the parameters like name, age and salary.
 
