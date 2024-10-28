@@ -41,6 +41,7 @@ Inheritance
 •	The new class is called the derived/child class and the one from which it is derived is called a parent/base class
      
 Types of Inheritance:
+
 ![image](https://github.com/user-attachments/assets/437ffdd3-c573-4d76-9d02-c85e0af57891)
 
 Single Inheritance:
