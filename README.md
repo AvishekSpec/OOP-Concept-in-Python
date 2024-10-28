@@ -46,6 +46,7 @@ Types of Inheritance:
 
 Single Inheritance:
 •	Enables a derived class to inherit characteristics from a single parent class
+
 ![image](https://github.com/user-attachments/assets/3704cedb-d074-462b-8fd1-9061a88da9f7)
 
 •	I am taking the parent class and created a constructor (__init__),  class itself is initializing the attributes with parameters(‘name’, ‘age’ and ‘salary’).
@@ -54,6 +55,7 @@ Single Inheritance:
 
 Multilevel Inheritance
 •	Enables a derived class to inherit properties from an immediate parent class which in turn inherits properties from his parent class.
+
 ![image](https://github.com/user-attachments/assets/42e90488-d17b-49c3-a100-4f82106a8054)
 
 •	In the above program, employee is the super class, childemployee1 is the child class. The childemployee1 class acts as the parent class for class childemployee2.
@@ -61,9 +63,11 @@ Multilevel Inheritance
 
 Hierarchical Inheritance
 Hierarchical level inheritance enables more than one derived class to inherit properties from a parent class.
+
 ![image](https://github.com/user-attachments/assets/f136c258-b336-4301-b054-119607005c42)
  
 Multiple Inheritance
 Multiple level inheritance enables one derived class to inherit properties from more than one base class.
+
 ![image](https://github.com/user-attachments/assets/aafb6ffc-b405-46b0-b111-369a47a33ab3)
 
