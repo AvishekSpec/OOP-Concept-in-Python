@@ -23,7 +23,7 @@ class Class1(): // class 1 is the name of the class
 Object:
 -	an instance of a class
 -	has state and behavior and can access the data
-Syntax: 
+- Syntax: 
 obj = class1()
 Here, obj is the object of class1.
 
