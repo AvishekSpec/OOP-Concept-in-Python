@@ -68,7 +68,7 @@ Here, obj is the object of class1.
 ![image](https://github.com/user-attachments/assets/f136c258-b336-4301-b054-119607005c42)
  
 **Multiple Inheritance**
-Multiple level inheritance enables one derived class to inherit properties from more than one base class.
+- Multiple level inheritance enables one derived class to inherit properties from more than one base class.
 
 ![image](https://github.com/user-attachments/assets/aafb6ffc-b405-46b0-b111-369a47a33ab3)
 
